@@ -1,0 +1,10 @@
+/node_modules/
+/dist/
+nohup.out
+package-lock.json
+.vscode/
+.vscode/*
+/sitemap/
+sitemap.xml
+robots.txt
+ads.txt

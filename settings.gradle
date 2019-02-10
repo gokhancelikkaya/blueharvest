@@ -1,0 +1,5 @@
+rootProject.name = 'bh'
+
+include 'eureka-naming'
+include 'account'
+include 'transaction'
